@@ -1,3 +1,4 @@
+[![Build Status](https://garysmith72.visualstudio.com/Learn-DevOps-Pipelines/_apis/build/status/MrMonkfish.mslearn-tailspin-spacegame-web?branchName=main)](https://garysmith72.visualstudio.com/Learn-DevOps-Pipelines/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
